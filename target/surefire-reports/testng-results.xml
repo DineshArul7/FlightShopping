@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="62747" started-at="2023-07-25T17:54:32 IST" finished-at="2023-07-25T17:55:34 IST">
+    <groups>
+    </groups>
+    <test name="D:/Dinesh_Arul/Automation_Projects/UI/Receipts/Flight_Shopping_E2E" duration-ms="62747" started-at="2023-07-25T17:54:32 IST" finished-at="2023-07-25T17:55:34 IST">
+      <class name="org.example.flightShoppingTests.AwardMapViewSearch">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeclass" is-config="true" duration-ms="6" started-at="2023-07-25T17:54:32 IST" finished-at="2023-07-25T17:54:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:32 IST" finished-at="2023-07-25T17:54:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_LiveSearch" duration-ms="6177" started-at="2023-07-25T17:54:32 IST" data-provider="data" finished-at="2023-07-25T17:54:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7fdd43cd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_LiveSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:38 IST" finished-at="2023-07-25T17:54:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:38 IST" finished-at="2023-07-25T17:54:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_LiveSearch" duration-ms="2378" started-at="2023-07-25T17:54:38 IST" data-provider="data" finished-at="2023-07-25T17:54:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@747835f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_LiveSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:40 IST" finished-at="2023-07-25T17:54:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:40 IST" finished-at="2023-07-25T17:54:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_LiveSearch" duration-ms="2209" started-at="2023-07-25T17:54:40 IST" data-provider="data" finished-at="2023-07-25T17:54:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@47a7c93e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_LiveSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:43 IST" finished-at="2023-07-25T17:54:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:43 IST" finished-at="2023-07-25T17:54:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_LiveSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_LiveSearch" duration-ms="2226" started-at="2023-07-25T17:54:43 IST" data-provider="data" finished-at="2023-07-25T17:54:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7bee8621]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_LiveSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:45 IST" finished-at="2023-07-25T17:54:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_NonTopSearch" duration-ms="3912" started-at="2023-07-25T17:54:45 IST" data-provider="data" finished-at="2023-07-25T17:54:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3a38f122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_NonTopSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:45 IST" finished-at="2023-07-25T17:54:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:49 IST" finished-at="2023-07-25T17:54:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_NonTopSearch" duration-ms="3699" started-at="2023-07-25T17:54:49 IST" data-provider="data" finished-at="2023-07-25T17:54:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@365afe87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_NonTopSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:54:49 IST" finished-at="2023-07-25T17:54:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:53 IST" finished-at="2023-07-25T17:54:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:53 IST" finished-at="2023-07-25T17:54:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_NonTopSearch" duration-ms="3681" started-at="2023-07-25T17:54:53 IST" data-provider="data" finished-at="2023-07-25T17:54:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@51d0ec6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_NonTopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:56 IST" finished-at="2023-07-25T17:54:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:54:56 IST" finished-at="2023-07-25T17:54:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_NonTopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_NonTopSearch" duration-ms="3509" started-at="2023-07-25T17:54:56 IST" data-provider="data" finished-at="2023-07-25T17:55:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7b53b1ad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_NonTopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:00 IST" finished-at="2023-07-25T17:55:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:00 IST" finished-at="2023-07-25T17:55:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2175" started-at="2023-07-25T17:55:00 IST" data-provider="data" finished-at="2023-07-25T17:55:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@198536f6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:02 IST" finished-at="2023-07-25T17:55:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:02 IST" finished-at="2023-07-25T17:55:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2158" started-at="2023-07-25T17:55:02 IST" data-provider="data" finished-at="2023-07-25T17:55:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2ce03e86]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:04 IST" finished-at="2023-07-25T17:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2217" started-at="2023-07-25T17:55:04 IST" data-provider="data" finished-at="2023-07-25T17:55:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1c628f6a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:04 IST" finished-at="2023-07-25T17:55:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:06 IST" finished-at="2023-07-25T17:55:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:06 IST" finished-at="2023-07-25T17:55:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2175" started-at="2023-07-25T17:55:06 IST" data-provider="data" finished-at="2023-07-25T17:55:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1a1ccaaf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:08 IST" finished-at="2023-07-25T17:55:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:08 IST" finished-at="2023-07-25T17:55:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2148" started-at="2023-07-25T17:55:08 IST" data-provider="data" finished-at="2023-07-25T17:55:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6f9ab79d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:11 IST" finished-at="2023-07-25T17:55:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:11 IST" finished-at="2023-07-25T17:55:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2162" started-at="2023-07-25T17:55:11 IST" data-provider="data" finished-at="2023-07-25T17:55:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3cc053]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2168" started-at="2023-07-25T17:55:13 IST" data-provider="data" finished-at="2023-07-25T17:55:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4e0cc334]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:13 IST" finished-at="2023-07-25T17:55:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:13 IST" finished-at="2023-07-25T17:55:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:15 IST" finished-at="2023-07-25T17:55:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:15 IST" finished-at="2023-07-25T17:55:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2189" started-at="2023-07-25T17:55:15 IST" data-provider="data" finished-at="2023-07-25T17:55:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1e12a5a6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:17 IST" finished-at="2023-07-25T17:55:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:17 IST" finished-at="2023-07-25T17:55:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2158" started-at="2023-07-25T17:55:17 IST" data-provider="data" finished-at="2023-07-25T17:55:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@388c519]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:19 IST" finished-at="2023-07-25T17:55:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:19 IST" finished-at="2023-07-25T17:55:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2143" started-at="2023-07-25T17:55:19 IST" data-provider="data" finished-at="2023-07-25T17:55:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@9b47400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:21 IST" finished-at="2023-07-25T17:55:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:21 IST" finished-at="2023-07-25T17:55:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2135" started-at="2023-07-25T17:55:21 IST" data-provider="data" finished-at="2023-07-25T17:55:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4877919f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:24 IST" finished-at="2023-07-25T17:55:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:24 IST" finished-at="2023-07-25T17:55:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch" duration-ms="2172" started-at="2023-07-25T17:55:24 IST" data-provider="data" finished-at="2023-07-25T17:55:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@21e45a6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:26 IST" finished-at="2023-07-25T17:55:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:26 IST" finished-at="2023-07-25T17:55:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch_NoCache" duration-ms="2220" started-at="2023-07-25T17:55:26 IST" data-provider="data" finished-at="2023-07-25T17:55:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7fbd3e75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch_NoCache -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:28 IST" finished-at="2023-07-25T17:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch_NoCache" duration-ms="2139" started-at="2023-07-25T17:55:28 IST" data-provider="data" finished-at="2023-07-25T17:55:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@594131f2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch_NoCache -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:28 IST" finished-at="2023-07-25T17:55:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:30 IST" finished-at="2023-07-25T17:55:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch_NoCache" duration-ms="2143" started-at="2023-07-25T17:55:30 IST" data-provider="data" finished-at="2023-07-25T17:55:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4f3e9fbb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch_NoCache -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:30 IST" finished-at="2023-07-25T17:55:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:32 IST" finished-at="2023-07-25T17:55:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:32 IST" finished-at="2023-07-25T17:55:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AwardMapViewSearch.MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="MapViewSearchPrice_TopSearch_NoCache([Ljava.lang.Object;)[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="MapViewSearchPrice_TopSearch_NoCache" duration-ms="2161" started-at="2023-07-25T17:55:32 IST" data-provider="data" finished-at="2023-07-25T17:55:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@43471a7e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MapViewSearchPrice_TopSearch_NoCache -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-07-25T17:55:34 IST" finished-at="2023-07-25T17:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.example.flightShoppingTests.AwardMapViewSearch@3b2c0e88]" name="afterclass" is-config="true" duration-ms="1" started-at="2023-07-25T17:55:34 IST" finished-at="2023-07-25T17:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- org.example.flightShoppingTests.AwardMapViewSearch -->
+    </test> <!-- D:/Dinesh_Arul/Automation_Projects/UI/Receipts/Flight_Shopping_E2E -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.example.listeners.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="D:/Dinesh_Arul/Automation_Projects/UI/Receipts/Flight_Shopping_E2E">
+        <classes>
+            <class name="org.example.flightShoppingTests.AwardMapViewSearch">
+            </class>
+        </classes>
+    </test>
+</suite>

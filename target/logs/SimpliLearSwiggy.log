@@ -1,0 +1,221 @@
+[INFO ] 2023-07-25 17:54:31.335 [main] Listeners - Deekay initialize
+[INFO ] 2023-07-25 17:54:31.339 [main] Listeners - onExecutionStart
+[INFO ] 2023-07-25 17:54:31.871 [main] Listeners - Enviroment name -------AWSPREPROD
+[INFO ] 2023-07-25 17:54:32.212 [main] Listeners - onStart
+[INFO ] 2023-07-25 17:54:32.356 [main] Listeners - Before Method
+[INFO ] 2023-07-25 17:54:32.358 [main] Listeners - onTestStart Start
+[INFO ] 2023-07-25 17:54:32.358 [main] Listeners - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:32.358 [main] Listeners - Deekay
+[WARN ] 2023-07-25 17:54:36.884 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - No Polygan response found
+[INFO ] 2023-07-25 17:54:38.518 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:38.520 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:38.536 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - onTestSuccess
+[INFO ] 2023-07-25 17:54:38.537 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - After Method
+[INFO ] 2023-07-25 17:54:38.539 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - Before Method
+[INFO ] 2023-07-25 17:54:38.540 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - onTestStart Start
+[INFO ] 2023-07-25 17:54:38.540 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:38.540 [main] 17MapViewSearchPrice_LiveSearchOW Search for Mapview with Specific dates and LiveSearch - Deekay
+[WARN ] 2023-07-25 17:54:39.620 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - No Polygan response found
+[INFO ] 2023-07-25 17:54:40.905 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:40.906 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:40.918 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - onTestSuccess
+[INFO ] 2023-07-25 17:54:40.918 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - After Method
+[INFO ] 2023-07-25 17:54:40.918 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - Before Method
+[INFO ] 2023-07-25 17:54:40.920 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - onTestStart Start
+[INFO ] 2023-07-25 17:54:40.920 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:40.920 [main] 18MapViewSearchPrice_LiveSearchRT Search for Mapview with Specific dates and LiveSearch - Deekay
+[WARN ] 2023-07-25 17:54:41.949 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - No Polygan response found
+[INFO ] 2023-07-25 17:54:43.113 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:43.116 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:43.128 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - onTestSuccess
+[INFO ] 2023-07-25 17:54:43.128 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - After Method
+[INFO ] 2023-07-25 17:54:43.129 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - Before Method
+[INFO ] 2023-07-25 17:54:43.129 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - onTestStart Start
+[INFO ] 2023-07-25 17:54:43.130 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:43.130 [main] 19MapViewSearchPrice_LiveSearchOW Search for Mapview with Flexible dates and LiveSearch - Deekay
+[WARN ] 2023-07-25 17:54:44.181 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - No Polygan response found
+[INFO ] 2023-07-25 17:54:45.341 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:45.343 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:45.355 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - onTestSuccess
+[INFO ] 2023-07-25 17:54:45.356 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - After Method
+[INFO ] 2023-07-25 17:54:45.391 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - Before Method
+[INFO ] 2023-07-25 17:54:45.392 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - onTestStart Start
+[INFO ] 2023-07-25 17:54:45.392 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:45.392 [main] 20MapViewSearchPrice_LiveSearchRT Search for Mapview with Flexible dates and LiveSearch - Deekay
+[INFO ] 2023-07-25 17:54:49.289 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:49.291 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:49.303 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - onTestSuccess
+[INFO ] 2023-07-25 17:54:49.303 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - After Method
+[INFO ] 2023-07-25 17:54:49.304 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - Before Method
+[INFO ] 2023-07-25 17:54:49.305 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - onTestStart Start
+[INFO ] 2023-07-25 17:54:49.305 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:49.305 [main] 1MapViewSearchPrice_NonTopSearchOW Search for Mapview with Specific dates  - Deekay
+[INFO ] 2023-07-25 17:54:52.990 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:52.993 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:53.004 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - onTestSuccess
+[INFO ] 2023-07-25 17:54:53.005 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - After Method
+[INFO ] 2023-07-25 17:54:53.005 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - Before Method
+[INFO ] 2023-07-25 17:54:53.006 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - onTestStart Start
+[INFO ] 2023-07-25 17:54:53.006 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:53.006 [main] 2MapViewSearchPrice_NonTopSearchRT Search for Mapview with Specific dates - Deekay
+[INFO ] 2023-07-25 17:54:56.673 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:54:56.675 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:54:56.688 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - onTestSuccess
+[INFO ] 2023-07-25 17:54:56.688 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - After Method
+[INFO ] 2023-07-25 17:54:56.690 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - Before Method
+[INFO ] 2023-07-25 17:54:56.690 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - onTestStart Start
+[INFO ] 2023-07-25 17:54:56.690 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:54:56.691 [main] 3MapViewSearchPrice_NonTopSearchOW Search for Mapview with Flexible dates - Deekay
+[INFO ] 2023-07-25 17:55:00.186 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:00.188 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:00.199 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - onTestSuccess
+[INFO ] 2023-07-25 17:55:00.199 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - After Method
+[INFO ] 2023-07-25 17:55:00.234 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - Before Method
+[INFO ] 2023-07-25 17:55:00.234 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - onTestStart Start
+[INFO ] 2023-07-25 17:55:00.234 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:00.234 [main] 4MapViewSearchPrice_NonTopSearchRT Search for Mapview with Flexible dates - Deekay
+[WARN ] 2023-07-25 17:55:01.294 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - No Polygan response found
+[INFO ] 2023-07-25 17:55:02.396 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:02.398 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:02.409 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - onTestSuccess
+[INFO ] 2023-07-25 17:55:02.410 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - After Method
+[INFO ] 2023-07-25 17:55:02.410 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - Before Method
+[INFO ] 2023-07-25 17:55:02.411 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - onTestStart Start
+[INFO ] 2023-07-25 17:55:02.411 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:02.411 [main] 5MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates - Deekay
+[WARN ] 2023-07-25 17:55:03.440 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - No Polygan response found
+[INFO ] 2023-07-25 17:55:04.558 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:04.559 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:04.569 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - onTestSuccess
+[INFO ] 2023-07-25 17:55:04.569 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - After Method
+[INFO ] 2023-07-25 17:55:04.570 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - Before Method
+[INFO ] 2023-07-25 17:55:04.570 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - onTestStart Start
+[INFO ] 2023-07-25 17:55:04.570 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:04.571 [main] 6MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates - Deekay
+[WARN ] 2023-07-25 17:55:05.643 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - No Polygan response found
+[INFO ] 2023-07-25 17:55:06.775 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:06.777 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:06.787 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - onTestSuccess
+[INFO ] 2023-07-25 17:55:06.787 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - After Method
+[INFO ] 2023-07-25 17:55:06.787 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - Before Method
+[INFO ] 2023-07-25 17:55:06.788 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - onTestStart Start
+[INFO ] 2023-07-25 17:55:06.789 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:06.789 [main] 7MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days - Deekay
+[WARN ] 2023-07-25 17:55:07.815 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - No Polygan response found
+[INFO ] 2023-07-25 17:55:08.949 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:08.951 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:08.963 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - onTestSuccess
+[INFO ] 2023-07-25 17:55:08.963 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - After Method
+[INFO ] 2023-07-25 17:55:08.964 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - Before Method
+[INFO ] 2023-07-25 17:55:08.964 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - onTestStart Start
+[INFO ] 2023-07-25 17:55:08.964 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:08.964 [main] 8MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days - Deekay
+[WARN ] 2023-07-25 17:55:09.987 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:11.100 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:11.101 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:11.112 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:11.113 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:11.113 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:11.113 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:11.114 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:11.114 [main] 9MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:12.174 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:13.262 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:13.264 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:13.276 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:13.277 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:13.277 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:13.277 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:13.278 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:13.278 [main] 10MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates_Beyond 60Days_MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:14.315 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - No Polygan response found
+[INFO ] 2023-07-25 17:55:15.432 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:15.434 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:15.445 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - onTestSuccess
+[INFO ] 2023-07-25 17:55:15.446 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - After Method
+[INFO ] 2023-07-25 17:55:15.446 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - Before Method
+[INFO ] 2023-07-25 17:55:15.447 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - onTestStart Start
+[INFO ] 2023-07-25 17:55:15.447 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:15.447 [main] 11MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates - Deekay
+[WARN ] 2023-07-25 17:55:16.497 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - No Polygan response found
+[INFO ] 2023-07-25 17:55:17.607 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:17.625 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:17.637 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - onTestSuccess
+[INFO ] 2023-07-25 17:55:17.637 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - After Method
+[INFO ] 2023-07-25 17:55:17.638 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - Before Method
+[INFO ] 2023-07-25 17:55:17.639 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - onTestStart Start
+[INFO ] 2023-07-25 17:55:17.639 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:17.639 [main] 12MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Flexible dates - Deekay
+[WARN ] 2023-07-25 17:55:18.668 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:19.784 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:19.786 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:19.796 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:19.797 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:19.798 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:19.798 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:19.799 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:19.799 [main] 13MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Specific dates and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:20.832 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:21.929 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:21.931 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:21.941 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:21.942 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:21.942 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:21.943 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:21.943 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:21.943 [main] 14MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:22.987 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:24.062 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:24.065 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:24.077 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:24.078 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:24.078 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:24.079 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:24.079 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:24.079 [main] 15MapViewSearchPrice_TopSearchOW Search for Top Search Markets with Flexible dates and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:25.112 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:26.237 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:26.239 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:26.251 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:26.252 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:26.286 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:26.287 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:26.287 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:26.287 [main] 16MapViewSearchPrice_TopSearchRT Search for Top Search Markets with Specific dates and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:27.329 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:28.494 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:28.496 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:28.507 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:28.508 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:28.509 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:28.509 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:28.510 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:28.510 [main] 21MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Specific dates withOutCache and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:29.536 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:30.636 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:30.638 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:30.649 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:30.649 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:30.650 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:30.650 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:30.650 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:30.651 [main] 22MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:31.668 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:32.781 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:32.782 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:32.793 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:32.794 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:32.794 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - Before Method
+[INFO ] 2023-07-25 17:55:32.795 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - onTestStart Start
+[INFO ] 2023-07-25 17:55:32.795 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - This is written Newly ####################################
+[INFO ] 2023-07-25 17:55:32.795 [main] 23MapViewSearchPrice_TopSearch_NoCacheOW Search for Top Search Markets with Flexible dates withOutCache and MaxMiles - Deekay
+[WARN ] 2023-07-25 17:55:33.840 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - No Polygan response found
+[INFO ] 2023-07-25 17:55:34.945 [main] POIDocument - Wrote property set SummaryInformation of size 136
+[INFO ] 2023-07-25 17:55:34.947 [main] POIDocument - Wrote property set DocumentSummaryInformation of size 86128
+[INFO ] 2023-07-25 17:55:34.956 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onTestSuccess
+[INFO ] 2023-07-25 17:55:34.957 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - After Method
+[INFO ] 2023-07-25 17:55:34.959 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onFinish
+[INFO ] 2023-07-25 17:55:35.098 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - Deeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeekay
+[INFO ] 2023-07-25 17:55:35.098 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - onExecutionFinish
+[INFO ] 2023-07-25 17:55:35.100 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - ReportStats(analysisStrategy=TEST, parent={}, child={}, grandchild={}, log={}, parentPercentage={}, childPercentage={}, grandchildPercentage={}, logPercentage={})
+[INFO ] 2023-07-25 17:55:35.100 [main] 24MapViewSearchPrice_TopSearch_NoCacheRT Search for Top Search Markets with Specific dates withOutCache and MaxMiles - #################################################################### Total =24  Passed =24 Failed = 0
